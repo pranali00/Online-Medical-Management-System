@@ -1,5 +1,8 @@
 # Online-Medical-Management-System
 
+The "Medical Shop Management System" has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardships faced by this existing system.Every organization, whether big or small, has challenges to overcome and managing the information of Stocks, Medical Shop, Sales, Medicine, User. Every Medical Shop Management System has different Medical Shop needs, therefore we design exclusive employee management systems that are adapted to your managerial requirements. 
+The main plan of the project is to create automated software.The Project on Medical Shop Management System is to manage the details of Medical Shop, Stocks, Company, Sales, User. It manages all the information about Medical Shop, Medicine, User, Medical Shop. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Medical Shop, Stocks, Medicine, Company. It tracks all the details about the Company, Sales, User. 
+
 ![image](https://github.com/user-attachments/assets/73255def-8218-43ea-8290-ec4bc1322355)
 
 ![image](https://github.com/user-attachments/assets/7fa4d8bd-8c17-4aff-b4f8-edd33102f54a)
@@ -30,5 +33,12 @@
 ![image](https://github.com/user-attachments/assets/0a787f84-b5f9-4777-8fc0-010692bcb801)
 
 
+Technical Specification:
 
+Html
+Css
+Javascript
+Php
+Mysql
+Bootstrap
 
